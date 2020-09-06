@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518245185 source:g:\programig code anan\reverse number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

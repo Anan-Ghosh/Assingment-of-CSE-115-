@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527254043 source:g:\programig code anan\llol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
